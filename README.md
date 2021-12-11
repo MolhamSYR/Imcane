@@ -1,7 +1,7 @@
 # Imcane
 Desktop Image Processor Application to process images
 
-#Usage
+# Usage
 Navigate through the project's files to debug and open Imcane.exe
 a Window will pop up! You can open an image by two ways
 
