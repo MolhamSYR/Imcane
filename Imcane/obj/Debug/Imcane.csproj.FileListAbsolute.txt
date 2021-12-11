@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\Imcane\Imcane\bin\Debug\Imcane.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Imcane\Imcane\bin\Debug\Imcane.exe
+c:\users\asus\documents\visual studio 2013\Projects\Imcane\Imcane\bin\Debug\Imcane.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Imcane\Imcane\obj\Debug\Imcane.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Imcane\Imcane\obj\Debug\Imcane.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Imcane\Imcane\obj\Debug\Imcane.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Imcane\Imcane\obj\Debug\Imcane.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Imcane\Imcane\obj\Debug\Imcane.exe
+c:\users\asus\documents\visual studio 2013\Projects\Imcane\Imcane\obj\Debug\Imcane.pdb
